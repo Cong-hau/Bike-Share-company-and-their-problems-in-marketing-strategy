@@ -1,4 +1,5 @@
 # Bike Share company and their problems in marketing strategy
+
 I am eager to introduce and appreciate when you travel in my case study. In this case study, I am a junior data analyst work for a bike-share company, Cyclistic
 ================
 Hau Lee
